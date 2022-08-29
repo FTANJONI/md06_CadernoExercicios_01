@@ -1,0 +1,15 @@
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\md06_CadernoExercicios_01.exe
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\md06_CadernoExercicios_01.deps.json
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\md06_CadernoExercicios_01.runtimeconfig.json
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\md06_CadernoExercicios_01.runtimeconfig.dev.json
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\md06_CadernoExercicios_01.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\ref\md06_CadernoExercicios_01.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\bin\Debug\net5.0\md06_CadernoExercicios_01.pdb
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.AssemblyInfoInputs.cache
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.AssemblyInfo.cs
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.csproj.CoreCompileInputs.cache
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\ref\md06_CadernoExercicios_01.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.pdb
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md06_CadernoExercicios_01\obj\Debug\net5.0\md06_CadernoExercicios_01.genruntimeconfig.cache
